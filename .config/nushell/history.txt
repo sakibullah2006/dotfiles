@@ -1,0 +1,215 @@
+clear
+pwd
+ls
+clear
+ls
+#SHELL
+echo #SHELL
+pwd
+neofetch
+clear
+echo #SHELL
+exit
+clear
+cd Downloads/
+ls
+cd Downloads/
+ls
+clear
+cd Downloads/
+clear
+cd ~
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+mkdir ~/.cache/starship 
+clear
+exit
+starship init nu | save -f ~/.cache/starship/init.nu
+nu.config-path
+use ~/.cache/starship/init.nu
+nu.config-path
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+clear
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+cd .config/nushell/
+ls
+clear
+ls
+open env.nu
+nvim env.nu
+nvim config.nu
+source env.nu
+source config.nu
+cd ~
+clear
+cd Desktop/StudioProjects/mynotes/
+clear
+ls
+cear
+clear
+ls
+cd lib/
+ls
+cear
+claer
+clear
+ls
+cd ~/Desktop/
+ls
+open test.db
+open test.db | get user
+ps
+clear
+ls
+cd ~/Desktop/
+cd StudioProjects/
+s
+ls
+clear
+ls
+cd mynotes/
+ls
+open README.md
+open pubspec.yaml
+clear
+ls
+cd lib/
+s
+ls
+cd ..
+ls
+git og
+git log
+xset r rate [delay] [rate]<\n>
+xset r rate [delay] [rate] .
+ls
+ls -all
+nvim .zshenv
+clear
+exit
+clear
+ls
+touch main.py
+clear
+pwd
+pip3 install pytube
+python3 -m pip install pytube
+clear
+pacman -S python-pytube
+sudo pacman -S python-pytube
+python3 -m venv .venv
+act
+ast
+exit
+nvim main.py
+clear
+exit
+clear
+exit
+clear
+act
+clear
+exit
+nu 
+exit
+clear
+go 
+nvim ~/.config/nushell/config.nu
+ls
+open README.md
+README.md
+open README.md
+cd lua/
+ls
+cd nvchad/
+ls
+nvim 
+nvim
+exit
+clear
+pub2xhtml 
+pubspec.lock
+pubspec.yaml
+open pubspec.yaml
+open pubspec.lock
+pubspec.lock
+ls
+open mynotes.iml
+open README.md
+nvum
+nvim 
+clear
+open README.md
+open pubspec.yaml
+flutter --version<\n>
+flutter --version 
+exit
+cleara
+clear 
+ls
+ls -lah
+ls -all
+clear
+cd dotfiles/
+ls
+ls -all
+cd .config
+ls
+cd .config
+cd dotfiles/
+pwd
+cp ~/.config/nvim .
+cp ~/.config/nvim . -r
+ls
+pwd
+ls
+ls -lah
+ls -all
+stow .
+ls -all
+ls
+pwd
+cd nvim/
+ls
+ls -lah
+ls -all
+pwd
+stow .
+ls
+stow .
+cd ..
+cd nvim
+ls
+ls -all
+exit
+tree
+ls
+ls .
+tree .config/
+tree .config/ -I
+tree .config -I
+tree -I .config 
+tree .config/
+cd ..
+tree dotfiles/
+tree dotfiles --all
+tree dotfiles -all
+cd dotfiles/
+tree -all .
+cd .cofig
+ls
+pwd
+cd ~/.config/nvim/
+tree
+tree .
+ls -all
+exit
+ls
+pwed
+pwd
+cd ..
+exot
+exit
+clear
+pwd
+exit
