@@ -40,10 +40,10 @@ Initiate stow symlinks
 
 This project is used by the following companies:
 
-- Sakib2006
+- sakibullah2006
 
 
 ## Support
 
-For support, email sakibullah@gmail.com or join our Slack channel.
+For support, email sakibullah.official@gmail.com.
 
