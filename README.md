@@ -24,7 +24,7 @@ Go to the project directory
   cd linux_config
 ```
 
-Install dependencies
+Install stow
 
 ```bash
   pacman -S stow
