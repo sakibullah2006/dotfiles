@@ -1,5 +1,5 @@
 
-# Linux configs 
+# Linux configs dotfiles 
 
 a collections of config files for linux operating system.
 ## description
